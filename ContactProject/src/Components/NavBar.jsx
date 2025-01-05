@@ -23,7 +23,7 @@ return (
             </NavLink>
         </li>
         <li>
-            <NavLink to="/docs" style={
+            <NavLink to="/docs/installation" style={
                        (activelink) => {
                         let linkStyle= {color:"grey"}
                          if(activelink.isActive)
